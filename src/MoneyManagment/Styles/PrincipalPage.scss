@@ -1,0 +1,21 @@
+#principal-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#principal-page {
+  header {
+    background-color: #c8553d;
+    width: 100%;
+    height: 200px;
+    margin-bottom: 30px;
+  }
+}
+
+.wishlist-wrap {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
