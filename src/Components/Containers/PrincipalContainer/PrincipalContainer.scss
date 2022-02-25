@@ -1,0 +1,14 @@
+@import '../../../Styles/Variables.scss';
+@import '../../../Styles/Mixins.scss';
+
+#container-section {
+    height: 100%;
+    .header-container {
+        background-color: $spaceBlue;
+        color: $silverPink;
+        @include flex-column-center;
+    }
+    .wishlist-wrap {
+        margin: 3rem 1rem;
+    }
+}

@@ -1,0 +1,25 @@
+@import '../Styles/Mixins.scss';
+
+#principal-page {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+}
+
+.upload-wishlist {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.wishlist-wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

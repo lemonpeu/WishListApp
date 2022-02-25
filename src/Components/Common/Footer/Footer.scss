@@ -1,0 +1,8 @@
+@import '../../../Styles/Variables.scss';
+@import '../../../Styles/Mixins.scss';
+
+#footer {
+    background-color: $spaceBlue;
+    color: $silverPink;
+    @include flex-row-center;
+}

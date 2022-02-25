@@ -1,0 +1,23 @@
+.wishlist-form {
+    width: 100%;
+    height: auto;
+    background-color: #dbdbdb;
+    box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.75);
+    padding: 15px;
+    box-sizing: border-box;
+    margin: 2% 0;
+    .link {
+        margin: 0;
+        font-size: 18px;
+        text-transform: uppercase;
+    }
+    .commentary {
+        margin: 10px 0;
+        font-style: italic;
+        margin-top: 15px;
+    }
+}
+
+// .date {
+//     font-size: 12px;
+// }
